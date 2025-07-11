@@ -5,7 +5,7 @@ This project contains two Excel files
 - **File 1: Annuity Calculator** — an interactive VBA-powered tool for solving Time Value of Money (TVM) problems involving annuities.
 - **File 2: Insurance Charges Visualization** — a dynamic Excel dashboard analyzing insurance charges across demographic and regional factors.
 
-**Note:** Macros may be disabled when you first open the files. Click [here](https://support.microsoft.com/en-us/office/enable-or-disable-macros-in-microsoft-365-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6) for instructions on enabling macros.
+**Note:** Macros may be disabled when you first open the files. Click [here](https://support.microsoft.com/en-us/topic/a-potentially-dangerous-macro-has-been-blocked-0952faa0-37e7-4316-b61d-5b5ed6024216) for instructions on enabling macros.
 
 
 
