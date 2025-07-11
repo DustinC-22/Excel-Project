@@ -51,7 +51,7 @@ This Excel workbook aims to showcase my ability to analyze and visualize data us
 demographic and regional factors influencing insurance charges.
 ```
 
-## Workbook Overview
+## Worksheet Overview
 
 Below is an overview of each worksheet in the order they appear in the workbook:
 
