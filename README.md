@@ -72,6 +72,31 @@ Below is an overview of each worksheet in the order they appear in the workbook:
 in formulas and PivotTables.
 ```
 
+### Summary Metrics
+
+```
+● Adds a "Weight Category" column to the raw data using a VLOOKUP formula that assigns each patient a category based on BMI thresholds.
+
+● Displays the BMI Category Threshold Table defining the numeric cutoffs for each weight category.
+
+● Summarizes general demographic insights:
+    ○ Total number of records.
+    ○ Count of males and females.
+    ○ Average patient age.
+
+● Calculates smoker charge comparisons:
+    ○ Average charges for smokers and non-smokers.
+    ○ Charge difference between smoker and non-smoker groups.
+
+● Includes child-related statistics:
+    ○ Average BMI for patients with children.
+    ○ Percentage of patients with no children.
+
+● Summarizes the distribution of insurance charges:
+    ○ Minimum, maximum, median, and standard deviation of charges.
+```
+
+
 ### Conditional Formatting
 
 ```
